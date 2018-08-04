@@ -11,4 +11,4 @@ A CRM(Customer relationship management) system created using Spring MVC and Hibe
 - Delete a customer
 
 ## Overview
-
+![project-big-picture](https://user-images.githubusercontent.com/24868204/43680670-a27e268a-97fc-11e8-82dc-6c9b8ec6593d.png)
